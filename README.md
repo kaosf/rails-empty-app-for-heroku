@@ -1,5 +1,7 @@
 # Rails Empty App for Heroku
 
+Version 0.0.2
+
 ## Versions
 
 * Ruby: 2.1.2p95
