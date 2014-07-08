@@ -5,7 +5,7 @@ Version 0.0.2
 ## Versions
 
 * Ruby: 2.1.2p95
-* Rails: 4.1.1
+* Rails: 4.1.4
 
 ## License
 
